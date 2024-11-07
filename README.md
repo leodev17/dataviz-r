@@ -1,5 +1,5 @@
 # Personal Data Visualization Projects
-
+Introduccion, inserte introduccion
 
 ## Objective
 This repo is dedicated to sharing my adventures with miscellaneous data visualization projects with others.
